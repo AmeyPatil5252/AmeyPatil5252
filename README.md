@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amey Patil
-- 👀 I’m interested in Data Science.
+- 👀 I’m interested in Statistics and Data Science.
 - 🌱 I’m currently learning Data Science & Machine Learning
 - 💞️ I’m looking to collaborate on Python Codes
 
